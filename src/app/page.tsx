@@ -62,7 +62,7 @@ export default function Home() {
                 <Play className="w-5 h-5 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white tracking-tight">Snaptube</h1>
+                <h1 className="text-xl font-bold text-white tracking-tight">تحميلاتي</h1>
                 <p className="text-xs text-gray-400">تطبيق تحميل فاخر</p>
               </div>
             </div>
@@ -280,7 +280,7 @@ export default function Home() {
         {/* Features Grid */}
         <section className="mt-20">
           <div className="divider-luxury">
-            <span>لماذا تختار Snaptube Web؟</span>
+            <span>لماذا تختار تحميلاتي؟</span>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[{
@@ -321,7 +321,7 @@ export default function Home() {
             <div className="w-6 h-6 rounded-lg bg-brand-500 flex items-center justify-center">
               <Play className="w-3 h-3 text-white" />
             </div>
-            <span className="font-bold text-white">Snaptube Web</span>
+            <span className="font-bold text-white">تحميلاتي</span>
           </div>
           <p className="text-gray-500 text-sm">
             تطبيق ويب فاخر للتحميل • تصميم فاخر • أداء استثنائي • دعم اللغة العربية
